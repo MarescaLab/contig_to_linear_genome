@@ -4,6 +4,7 @@
 These scripts are used in the process of converting a complete and circular contig to a genome whose annotation starts with dnaA. 
 
 Scripts are specifically used to:
+
   trim_fasta.py:               Convert a complete and circular contig with overlap to a linear sequence.
   rearrange_genome_dnaA.py:    Rearrange a linear genome sequence to begin with dnaA as the first CDS annotated
  
