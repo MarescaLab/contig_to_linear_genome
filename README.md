@@ -10,7 +10,7 @@ Scripts are specifically used to:
  
  
 # NOTE
-These scripts do NOT run annotation software. They are for those fiddly steps in between running annotation software.
+These scripts do NOT run annotation software. They are for those fiddly steps in between running annotation software. Running these scripts requires Python.
 
 
 # STEP-BY-STEP PROCESS SCRIPTS SHOULD BE USED IN
